@@ -15,6 +15,7 @@
     "nodemon": "^2.0.18"
   },
   "dependencies": {
+    "express-async-errors": "^3.1.1",
     "pg": "^8.7.3"
   }
 }
